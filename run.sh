@@ -1,0 +1,1 @@
+"/home/shrikant/IIIT/Mtech2Sem/IRE/Aditya_pgrank/a.out </home/shrikant/IIIT/Mtech2Sem/IRE/Aditya_pgrank/input.txt  >/home/shrikant/IIIT/Mtech2Sem/IRE/Aditya_pgrank/output.txt" 
